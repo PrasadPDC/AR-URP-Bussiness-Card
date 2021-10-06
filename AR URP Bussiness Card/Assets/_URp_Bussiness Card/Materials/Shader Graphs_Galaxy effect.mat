@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Graphs_Galaxy effect
+  m_Shader: {fileID: -6465566751694194690, guid: effe1365f02b9264aa2a8ad51c2b6304,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Cubemap_56D84744:
+        m_Texture: {fileID: 8900000, guid: 69c4db545ca04884c9825746fa7d7d7b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Cubemap_9C9BCEAA:
+        m_Texture: {fileID: 8900000, guid: d6696749f2b3ba147abb81cc2050a091, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_3FD62734: 0.26
+    - Vector1_59A36245: 2.1
+    - Vector1_B638D7DA: 26.01
+    - Vector1_F103402F: 1.82
+    m_Colors:
+    - Color_1C4ACA64: {r: 1, g: 0.87847084, b: 0.7688679, a: 0}
+    - Color_5909F6CF: {r: 1, g: 0.8060332, b: 0.36320752, a: 0}
+    - Color_69BAACBA: {r: 0.109803915, g: 1, b: 0.7634247, a: 0}
+    - Vector3_6BE29352: {r: 1, g: 1, b: 0, a: 0}
